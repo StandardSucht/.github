@@ -3,6 +3,7 @@
 Minecraft network with the goal of creating a unique gaming experience for all players. Always up to date with the latest MC versions. (Currently on 1.20.4)
 
 for more information 🤝
+
 DISCORD: <URL>https://discord.gg/VppezaRGUG
 ### Languages and Tools:
 
