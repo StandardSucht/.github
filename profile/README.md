@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Minecraft network with the goal of creating a unique gaming experience for all players. Always up to date with the latest MC versions. (Currently on 1.20.4)
+Minecraft network with the goal of creating a unique gaming experience for all players. Always up to date with the latest MC versions. (Currently on 1.20.6)
 
 for more information 🤝
 
