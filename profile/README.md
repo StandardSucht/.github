@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-Minecraft network with the goal of creating a unique gaming experience for all players. Always up to date with the latest MC versions. (Currently on 1.20.6)
+Minecraft network with the goal of creating a unique gaming experience for all players. Always up to date with the latest MC versions. (Currently on 1.21)
 
 for more information 🤝
 
 NETWORK DISCORD: <URL>https://discord.gg/VppezaRGUG
-
-DEVELOPMENT DISCORD: (demnächst verfügbar)
 ### Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"></code>
