@@ -5,6 +5,7 @@ Minecraft network with the goal of creating a unique gaming experience for all p
 for more information 🤝
 
 NETWORK DISCORD: <URL>https://discord.gg/VppezaRGUG
+
 DEVELOPMENT DISCORD: (demnächst verfügbar)
 ### Languages and Tools:
 
