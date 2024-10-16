@@ -19,4 +19,5 @@ for all ****players****. Always up to date with the latest **MINECRAFT** version
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
