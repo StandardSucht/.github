@@ -3,11 +3,7 @@
 **Minecraft** network with the goal of creating a unique gaming experience 
 for all ****players****. Always up to date with the latest **MINECRAFT** versions. (**Currently on 1.21**)
 
-  </a>
-  <a href="https://discord.standardsucht.link" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Discord%20Server-JOIN%20NOW-%237289da?style=for-the-badge&logo=discord" alt="Discord Server Badge" />
-  </a>
-</div>
+* [📝REGELWERK](https://github.com/standardsucht/Regelwerk)
 
 
 ### 🎨 Languages and Tools:
