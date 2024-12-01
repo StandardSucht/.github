@@ -1,4 +1,4 @@
-## Hi there 👋
+## HI THERE 👋
 
-Our **MINECRAFT** network aims to provide all players with a unique and unforgettable **gaming** experience. 
-We ensure that we stay up to date with the latest **MINECRAFT** versions. (**Currently on version 1.21.***)
+OUR **MINECRAFT** NETWORK AIMS TO PROVIDE ALL PLAYERS WITH A UNIQUE AND UNFORGETTABLE **GAMING** EXPERIENCE.  
+WE ENSURE THAT WE STAY UP TO DATE WITH THE LATEST **MINECRAFT** VERSIONS. (**CURRENTLY ON VERSION 1.21.**)
