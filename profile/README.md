@@ -1,6 +1,6 @@
-## HI THERE 👋
+## Hi there 👋
 
-OUR **MINECRAFT** NETWORK AIMS TO PROVIDE ALL PLAYERS WITH A UNIQUE AND UNFORGETTABLE **GAMING** EXPERIENCE.  
-WE ENSURE THAT WE STAY UP TO DATE WITH THE LATEST **MINECRAFT** VERSIONS. (**CURRENTLY ON VERSION 1.21.**)
+Our **Minecraft** network aims to provide all players with a unique and unforgettable gaming experience.
+We ensure that we stay up to date with the latest Minecraft versions. (Currently on version **1.21.***)
 
 ![](https://github.com/STANDARDSUCHT/media/blob/main/images/006.png?raw=true)
