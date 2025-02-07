@@ -5,4 +5,7 @@ We ensure that we stay up to date with the latest Minecraft versions. (Currently
 
 [![Discord](https://img.shields.io/discord/617339081168388110?color=blue&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/VppezaRGUG)
 
+## Links:
 https://standardsucht.link/discord
+
+https://standardsucht.link/instagram
